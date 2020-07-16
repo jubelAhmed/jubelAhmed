@@ -20,9 +20,9 @@ backEnd: {
             js: ["node", "express"],
             python: ["Django","Django Rest Framework"]
         }
-databases: ["MySql","PostgreSQL",,"mongodb","sqlite"],
+databases: ["MySql","PostgreSQL","mongodb","sqlite"],
 
-code: ["Python","Javascript", "java", "c",, "php"],
+code: ["Python","Javascript", "java", "c","php"],
 
 ```
 

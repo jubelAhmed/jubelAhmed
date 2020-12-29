@@ -13,14 +13,13 @@
 
 ```Python
 frontEnd = {
-            js: ["Jquery"],
+            js: ["Jquery","React.js"],
             css: ["materialize", "bootstrap"]
           }
 backEnd: {
-            js: ["node", "express"],
             python: ["Django","Django Rest Framework"]
         }
-databases: ["MySql","PostgreSQL","mongodb","sqlite"],
+databases: ["Sql","mongodb"],
 
 code: ["Python","Javascript", "java", "c","php"],
 

@@ -11,18 +11,23 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```Python
-frontEnd = {
-            js: ["Jquery","React.js"],
-            css: ["materialize", "bootstrap"]
-          }
-backEnd: {
-            python: ["Django","DRF"]
-            Golang, AWS
-        }
-databases: ["MySql"],
-
-code: ["Python","Javascript", "Golang"],
+```
+{
+    "BackEnd": {
+        "Languages": ["Python", "Golang", "Ruby"],
+        "Framework": ["Django", "Ruby on Rails"],
+        "Cloud": {
+            "AWS": ["Lambda", "SQS", "SNS", "API Gateway", "Appsync", "Cognito", "EC2", "ECS", "S3", "Load Balancer", "Dynamodb", "RDS", "Kinesis", "ECS"],
+            "GCP": ["Compute Engine", "Cloud Build", "Cloud Run", "PubSub", "Kubernetes", "Firestore", "Cloud Function"]
+        },
+        "Databases": ["PostgreSQL", "MySql", "Dynamodb"],
+        "Others": ["Terraform", "AWS CDK", "CI/CD", "Docker", "Git", "Redis", "System Design"]
+    },
+    "frontEnd": {
+        "languages": ["JavaScript"],
+        "framework": ["React.js"],
+        "css": ["Bootstrap"]
+    }
 
 ```
 

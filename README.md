@@ -14,8 +14,8 @@
 ```
 {
     "BackEnd": {
-        "Languages": ["Python", "Golang", "Ruby"],
-        "Framework": ["Django", "Ruby on Rails"],
+        "Languages": ["Python", "Golang", "Ruby", "Node.js"],
+        "Framework": ["Django", "Ruby on Rails", "Flask", "Express.js"],
         "Cloud": {
             "AWS": ["Lambda", "SQS", "SNS", "API Gateway", "Appsync", "Cognito", "EC2", "ECS", "S3", "Load Balancer", "Dynamodb", "RDS", "Kinesis", "ECS"],
             "GCP": ["Compute Engine", "Cloud Build", "Cloud Run", "PubSub", "Kubernetes", "Firestore", "Cloud Function"]
@@ -33,12 +33,12 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
----
+<!--
 📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
+--START_SECTION:waka
 ```text
-
 ```
+-->
 <!--END_SECTION:waka-->
 
 

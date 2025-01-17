@@ -14,13 +14,13 @@
 ```
 {
     "BackEnd": {
-        "Languages": ["Python", "Golang", "Javascript", "Typescript"],
-        "Framework": ["Django", "Flask", "Express.js"],
+        "Languages": ["Python", "Ruby", "Javascript", "Typescript"],
+        "Framework": ["Django", "Ruby on Rails", "Express.js"],
         "Cloud": {
-            "AWS": ["Lambda", "SQS", "SNS", "API Gateway", "Appsync", "Cognito", "EC2", "ECS", "S3", "Load Balancer", "Dynamodb", "RDS", "Kinesis", "ECS"],
+            "AWS": ["Lambda", "SQS", "SNS", "API Gateway", "Appsync", "Cognito", "EC2", "ECS", "S3", "Event Bus", "Cloudwatch", "Dynamodb", "RDS", "Kinesis", "ECS", and so on],
             "GCP": ["Compute Engine", "Cloud Build", "Cloud Run", "PubSub", "Kubernetes", "Firestore", "Cloud Function"]
         },
-        "Databases": ["PostgreSQL", "MySql", "Dynamodb"],
+        "Databases": ["PostgreSQL", "MySql", "Dynamodb", "MongoDB"],
         "Others": ["Terraform", "AWS CDK", "CI/CD", "Docker", "Git", "Redis", "System Design"]
     }
 

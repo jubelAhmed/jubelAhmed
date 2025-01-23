@@ -14,8 +14,8 @@
 ```
 {
     "BackEnd": {
-        "Languages": ["Python", "Ruby", "Javascript", "Typescript"],
-        "Framework": ["Django", "Ruby on Rails", "Express.js"],
+        "Languages": [ "Ruby", "Python", "Javascript", "Typescript"],
+        "Framework": ["Ruby on Rails", "Django", "Express.js"],
         "Cloud": {
             "AWS": ["Lambda", "SQS", "SNS", "API Gateway", "Appsync", "Cognito", "EC2", "ECS", "S3", "Event Bus", "Cloudwatch", "Dynamodb", "RDS", "Kinesis", "ECS", and so on],
             "GCP": ["Compute Engine", "Cloud Build", "Cloud Run", "PubSub", "Kubernetes", "Firestore", "Cloud Function"]

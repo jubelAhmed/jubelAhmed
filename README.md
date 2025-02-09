@@ -11,19 +11,16 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```
-{
-    "BackEnd": {
-        "Languages": [ "Ruby", "Python", "Javascript", "Typescript"],
-        "Framework": ["Ruby on Rails", "Django", "Express.js"],
-        "Cloud": {
-            "AWS": ["Lambda", "SQS", "SNS", "API Gateway", "Appsync", "Cognito", "EC2", "ECS", "S3", "Event Bus", "Cloudwatch", "Dynamodb", "RDS", "Kinesis", "ECS", and so on],
-            "GCP": ["Compute Engine", "Cloud Build", "Cloud Run", "PubSub", "Kubernetes", "Firestore", "Cloud Function"]
-        },
-        "Databases": ["PostgreSQL", "MySql", "Dynamodb", "MongoDB"],
-        "Others": ["Terraform", "AWS CDK", "CI/CD", "Docker", "Git", "Redis", "System Design"]
-    }
+## 🔧 Tech Stack
 
+### **Back-End Development**
+- **Languages:** Ruby, Python, JavaScript, TypeScript
+- **Frameworks:** Ruby on Rails, Django, Express.js
+- **Cloud Services:**
+  - **AWS:** Lambda, SQS, SNS, API Gateway, AppSync, Cognito, EC2, ECS, S3, Event Bus, CloudWatch, DynamoDB, RDS, Kinesis, etc.
+  - **GCP:** Compute Engine, Cloud Build, Cloud Run, Pub/Sub, Kubernetes, Firestore, Cloud Functions
+- **Databases:** PostgreSQL, MySQL, DynamoDB, MongoDB
+- **Others:** Terraform, AWS CDK, CI/CD, Docker, Git, Redis, System Design
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>

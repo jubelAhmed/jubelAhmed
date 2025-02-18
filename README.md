@@ -14,8 +14,8 @@
 ## 🔧 Tech Stack
 
 ### **Back-End Development**
-- **Languages:** Ruby, Python, JavaScript, TypeScript
-- **Frameworks:** Ruby on Rails, Django, Express.js
+- **Languages:** JavaScript, TypeScript,Ruby, Python, 
+- **Frameworks:** Express.js, Ruby on Rails, Django
 - **Cloud Services:**
   - **AWS:** Lambda, SQS, SNS, API Gateway, AppSync, Cognito, EC2, ECS, S3, Event Bus, CloudWatch, DynamoDB, RDS, Kinesis, etc.
   - **GCP:** Compute Engine, Cloud Build, Cloud Run, Pub/Sub, Kubernetes, Firestore, Cloud Functions

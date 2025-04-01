@@ -2,7 +2,7 @@
 
 <h2> I'm Jubel Ahmed <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://cloudly.io/">Cloudly Infotech Ltd</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="https://cloudly.io/">Cloudly</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-jubel_ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jubelahmed8180/)](https://www.linkedin.com/in/jubelahmed8180/)
@@ -14,8 +14,8 @@
 ## 🔧 Tech Stack
 
 ### **Back-End Development**
-- **Languages:** JavaScript, TypeScript, Ruby, Python, 
-- **Frameworks:** Express.js, Ruby on Rails, Django
+- **Languages:** JavaScript, Python, TypeScript, Ruby
+- **Frameworks:** Django, Express.js, Ruby on Rails, 
 - **Cloud Services:**
   - **AWS:** Lambda, SQS, SNS, API Gateway, AppSync, Cognito, EC2, ECS, S3, Event Bus, CloudWatch, DynamoDB, RDS, Kinesis, etc.
   - **GCP:** Compute Engine, Cloud Build, Cloud Run, Pub/Sub, Kubernetes, Firestore, Cloud Functions

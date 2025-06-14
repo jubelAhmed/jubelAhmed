@@ -18,7 +18,7 @@
 - **Frameworks:** Django, Express.js, React.js
 - **Cloud Services:**
   - **AWS:** Lambda, SQS, SNS, API Gateway, AppSync, Cognito, EC2, ECS, S3, Event Bus, CloudWatch, DynamoDB, RDS, Kinesis, etc.
-  - **GCP:** Compute Engine, Cloud Build, Cloud Run, Pub/Sub, Kubernetes, Firestore, Cloud Functions
+  - **GCP:** Compute Engine, Cloud Build, Cloud Run, Pub/Sub, GKE, Firestore, Cloud Functions
 - **Databases:** PostgreSQL, MySQL, DynamoDB, MongoDB
 - **Others:** Terraform, AWS CDK, CI/CD, Docker, Git, Redis, System Design
 

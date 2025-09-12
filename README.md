@@ -16,4 +16,4 @@
 
 
 ## 📫 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/jubelahmed8180/) · [Email Me](mailto:youremail@example.com)  
+[LinkedIn](https://www.linkedin.com/in/jubelahmed8180/) · [Email Me](mailto:jubel8180@gmail.com)  
